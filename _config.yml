@@ -1,7 +1,7 @@
 name: The Barbarian
 favicon: null
-layout_spectrum: 0.5991225533653051
-typography_spectrum: 0.8766693626530468
+layout_spectrum: 0.74513
+typography_spectrum: 0.09894
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.43384598987177014
-  lightness: 0.7642072404269129
-  saturation: 0.455976277589798
-  rhythmicContrast: 0.027442745864391327
+    - '#2c2119'
+    - '#63c6ff'
+    - '#608974'
+    - '#c6e7ff'
+    - '#f9b836'
+  brandStrength: 0.5
+  lightness: 0.25
+  saturation: 0.375
+  rhythmicContrast: 0
 purpose: []
