@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[The Barbarian]]></title>
         <description><![CDATA[The Barbarian]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/the-barbarian/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 09 Feb 2016 09:12:52 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 16 Feb 2016 22:30:43 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/the-barbarian/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/53d05d94-5502-4afe-8300-9fe455746e45.PNG">]]></description>
-            <link>undefined42d1a5ee-738e-45c0-abf0-0e610cc0ac80/index.html</link>
+            <title><![CDATA[The Barbarian]]></title>
+            <description><![CDATA[<article><h1>The Barbarian</h1><p>The Barbarian is a Top-Down Indie RPG!  The game features over 30 hours of non-linear gameplay.  This is a full game on iOS, not just one aspect of an RPG on repeat!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7f6fec799912651b851f2bd8ace01eba82b2b2bd.png"></article>]]></description>
+            <link>https://thegrid.ai/the-barbarian/42d1a5ee-738e-45c0-abf0-0e610cc0ac80/index.html</link>
             <guid isPermaLink="false">42d1a5ee-738e-45c0-abf0-0e610cc0ac80</guid>
-            <pubDate>Tue, 09 Feb 2016 09:12:41 GMT</pubDate>
+            <pubDate>Tue, 16 Feb 2016 22:29:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
